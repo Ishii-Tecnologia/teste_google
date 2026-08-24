@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Biblioteca CEP",
+  "description": "Sistema de controle de acervo de biblioteca, gestão de títulos, exemplares físicos, empréstimos, devoluções, reservas, relatórios, parâmetros e controle de acessos RBAC.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
